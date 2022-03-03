@@ -51,3 +51,4 @@ public class Homework3 {
         return mass5;
     }
 }
+
